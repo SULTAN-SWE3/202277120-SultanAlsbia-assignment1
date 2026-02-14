@@ -39,7 +39,7 @@ assignment/
 3. (Optional) Use VS Code Live Server for easier testing.
 
 ## Live Demo
-Add your GitHub Pages link here after deployment.
+https://github.com/SULTAN-SWE3/202277120-SultanAlsbia-assignment1.git
 
 ## AI Usage Summary
 AI tools were used to assist with code generation, debugging, and documentation.  

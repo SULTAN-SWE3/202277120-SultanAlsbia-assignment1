@@ -17,6 +17,9 @@ It is built using HTML, CSS, and JavaScript and includes interactive features an
 - JavaScript
 - GitHub for version control and deployment
 
+## Tools Used
+- AI moodel: CHATGPT
+
 ## Project Structure
 ```
 assignment/
